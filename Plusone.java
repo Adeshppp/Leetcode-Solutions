@@ -24,5 +24,3 @@ class A {
         return result;
     }
 }
-
-//"fly me   to   the moon " logical error
