@@ -78,3 +78,5 @@ class Solution {
 
     }
 }
+
+//this is not the best solution out there, but this is my understanding of the Linked List
